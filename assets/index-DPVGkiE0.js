@@ -10240,7 +10240,7 @@ const sp = [["path", {
             }), c.jsxs("p", {
                 className: $t.sharingHappiness,
                 children: ["Sharing Happiness with", c.jsx("br", {}), c.jsx("strong", {
-                    children: "Hyder Ali & Muhammed Yazeen"
+                    children: "Muhammed Yazeen & Hyder Ali "
                 })]
             })]
         })
