@@ -9586,7 +9586,7 @@ const sp = [["path", {
                 children: "Save the Date"
             }), c.jsx("p", {
                 className: Z.names,
-                children: "Shabin & Nidha"
+                children: "Nidha & Shabin  "
             }), c.jsx("div", {
                 className: Z.eventTag,
                 children: t ? "WEDDING" : "Wedding"
@@ -9829,14 +9829,14 @@ const sp = [["path", {
                         className: `${V.personDetails} ${V.slideFromLeft}`,
                         children: [c.jsx("p", {
                             className: V.roleTitle,
-                            children: "The Groom"
+                            children: "The Bride"
                         }), c.jsx("h3", {
                             className: V.name,
-                            children: "Muhammed Shabin"
+                            children: "Nidha Fathima"
                         }), c.jsxs("p", {
                             className: V.parents,
-                            children: ["S/O ", c.jsx("br", {}), c.jsx("strong", {
-                                children: "ASK Sainudheen & Shajitha PM"
+                            children: ["D/O ", c.jsx("br", {}), c.jsx("strong", {
+                                children: "Sideek EH & Muneera ML "
                             })]
                         }), c.jsxs("p", {
                             className: V.address,
@@ -9851,13 +9851,13 @@ const sp = [["path", {
                         className: `${V.personDetails} ${V.slideFromRight}`,
                         children: [c.jsx("p", {
                             className: V.roleTitle,
-                            children: "The Bride"
+                            children: "The Groom"
                         }), c.jsx("h3", {
                             className: V.name,
-                            children: "Nidha Fathima"
+                            children: "Muhammed Shabin"
                         }), c.jsxs("p", {
                             className: V.parents,
-                            children: ["D/O ", c.jsx("br", {}), c.jsx("strong", {
+                            children: ["S/O ", c.jsx("br", {}), c.jsx("strong", {
                                 children: "Sideek EH & Muneera ML"
                             })]
                         }), c.jsxs("p", {
@@ -10427,10 +10427,10 @@ function Km() {
                     children: "THE WEDDING INVITATION OF"
                 }), c.jsxs("h1", {
                     className: "intro-title",
-                    children: ["Muhammed Shabin ", c.jsx("span", {
+                    children: [" Nidha Fathima  ", c.jsx("span", {
                         className: "ampersand",
                         children: "&"
-                    }), " Nidha Fathima"]
+                    }), "Muhammed Shabin"]
                 }), c.jsx("button", {
                     className: "primary-button open-btn",
                     onClick: h,
